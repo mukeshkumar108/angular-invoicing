@@ -1,22 +1,18 @@
-## Angular Invoicing
+## This is just a Test
 
-Use this extremely small and lightweight project built in Angular JS to build your one off Invoices. No monthly fees, No Subscriptions - No heavy duty features, Just simple invoices.
+I stumbled on this nifty little tool that allows users to create one-off invoices in the browsr, and print / save them as PDF's. [see original project](http://metaware.github.io/angular-invoicing) by Metaware.
 
-## Usage
+I'm just playing around with it here.
 
-Use this project here: [Angular Invoicing](http://metaware.github.io/angular-invoicing) or clone it and customize it to your hearts content.
+## My Plans
 
-## Feature Requests
-
-Feel free to open any issues/pull requests if you have any feature requests.
-
-## Roadmap
-
-* Add Discounts feature
+* Update to AngularJS v2
 * Add multiple currency support
 
 
-## Contributors
+## Original Creators
+
+Working on the shoudlers of giants
 
 * [Manpreet Singh](http://github.com/manpreetrules)
 * [Jasdeep Singh](http://jasdeep.ca)
