@@ -7,18 +7,18 @@ function InvoiceController($scope) {
     tax: 13.00,
     invoice_number: 10,
     customer_info: {
-      name: "Mr. John Doe",
-      web_link: "John Doe Designs Inc.",
-      address1: "1 Infinite Loop",
-      address2: "Cupertino, California, US",
-      postal: "90210"
+      name: "Mr. S Holmes",
+      web_link: "The Detective Agency",
+      address1: "221B Baker Street",
+      address2: "LONDON",
+      postal: "NW1 6XE"
     },
     company_info: {
-      name: "Metaware Labs",
-      web_link: "www.metawarelabs.com",
-      address1: "123 Yonge Street",
-      address2: "Toronto, ON, Canada",
-      postal: "M5S 1B6"
+      name: "Craft Digital",
+      web_link: "craft-digital.co.uk",
+      address1: "8 Jasmine Close",
+      address2: "Bedford, Beds",
+      postal: "MK41 0TJ"
     },
     items:[
       { qty: 10, description: "Gadget", cost: 9.95 }
