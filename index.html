@@ -71,7 +71,7 @@
           <td><input ng:model="item.description" placeholder="Description"></td>
           <td><input ng:model="item.qty" value="1" size="4" ng:required ng:validate="integer" placeholder="qty"></td>
           <td><input ng:model="item.cost" value="0.00" ng:required ng:validate="number" size="6" placeholder="cost"></td>
-          <td align="right">{{item.cost * item.qty | currency}}</td>
+          <td align="right">{{item.cost * item.qty | £}}</td>
 
       </tr>
       <tr ng-hide="printMode">
